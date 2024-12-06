@@ -1,0 +1,21 @@
+project/
+│
+├── config/
+│   ├── environment.js
+│   └── metaConfig.js
+│
+├── controllers/
+│   ├── geminiController.js
+│   └── whatsappController.js
+│
+├── routes/
+│   ├── geminiRoutes.js
+│   └── whatsappRoutes.js
+│
+├── utils/
+│   ├── logger.js
+│   └── whatsappUtils.js
+│
+├── index.js
+├── package.json
+└── .env
